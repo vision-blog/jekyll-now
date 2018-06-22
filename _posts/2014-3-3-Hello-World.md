@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Классификация с помощью метода ближайщих соседей
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+**Метод ближайших соседей** — простейший метрический классификатор, основанный на оценивании сходства объектов. Классифицируемый объект относится к тому классу, которому принадлежат ближайшие к нему объекты обучающей выборки.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
